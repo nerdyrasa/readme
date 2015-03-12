@@ -35,7 +35,7 @@ This is a web application inspired by [Randal Olson](https://twitter.com/randal_
 11. Add anything you may have missed: `git add [FILE_NAME]`
 12. Commit these changes with a message: `git commit -am 'add awesome new feature'`
 13. Check out the `master` branch: `git checkout master`
-14. Fetch any updates from the repository: `git fetch upstream`
+14. Fetch any updates from the repository: `git pull upstream master`
 15. Attempt to merge your changes with the updated `master` branch: `git merge awesome_new_feature`
 16. Resolve any conflicts (this is more complicated).
 17. Push your changes to your own repository: `git push -u origin awesome_new_feature`
